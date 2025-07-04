@@ -1,0 +1,1 @@
+export { default as AssinaturaPage } from './AssinaturaPage.vue' 
